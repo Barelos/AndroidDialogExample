@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogTraining</string>
+    <string name="headline">Click to see dialogs</string>
+    <string name="basic_dialog">Basic</string>
+    <string name="list_dialog">List</string>
+    <string name="checkbox_dialog">Check Box</string>
+    <string name="radio_dialog">Radio</string>
+    <string name="spinner_dialog">Spinner</string>
+    <string name="edit_text_dialog">Edit</string>
+</resources>
